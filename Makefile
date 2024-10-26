@@ -2,6 +2,9 @@ dev:
 	# bun install
 	bun run dev
 
+build:
+	bun run build
+
 makedb:
 	bun x drizzle-kit generate
 	bun x drizzle-kit migrate

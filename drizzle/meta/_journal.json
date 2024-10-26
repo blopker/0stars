@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1729602697930,
+      "tag": "0000_yielding_jimmy_woo",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1729603021844,
+      "tag": "0001_gigantic_grey_gargoyle",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1729765421287,
+      "tag": "0002_numerous_sasquatch",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1729865741565,
+      "tag": "0003_dear_pixie",
+      "breakpoints": true
+    }
+  ]
+}

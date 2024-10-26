@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: "TeX Gyre Heros Condensed";
+    font-style: normal;
+    font-weight: 400;
+    src: url(/font/texgyreheros-regular.otf);
+  }
+  html {
+    font-family: "TeX Gyre Heros Condensed", sans-serif;
+  }
+}
+
+:root {
+  --background-rgb: 255, 255, 255;
+  --foreground-rgb: 0, 0, 0;
+}
+/* 
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-rgb: 0, 0, 0;
+    --foreground-rgb: 255, 255, 255;
+  }
+} */
+
+body {
+  background: rgb(var(--background-rgb));
+  color: rgb(var(--foreground-rgb));
+}

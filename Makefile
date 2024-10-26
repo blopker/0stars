@@ -12,3 +12,9 @@ parsecsv:
 docker:
 	docker build -t 0stars .
 	docker run -p 3000:3000 0stars
+
+git:
+	@git remote add dokku dokku@ssh.kbl.io:0stars
+
+deploy:
+	@git push dokku main

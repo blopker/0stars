@@ -2,7 +2,7 @@ export default function About() {
   return (
     <main class="m-auto max-w-2xl p-6">
       <div class="text-center">
-        <h1 class="text-6xl uppercase my-16">About Page</h1>
+        <h1 class="text-6xl uppercase my-16">About</h1>
       </div>
       <div class="prose">
         <h3>What</h3>

@@ -85,7 +85,7 @@ export default function Review(props: {
           {props.review?.reviewText}
         </div>
         <Show when={props.showControls}>
-          <div class="flex justify-between md:gap-10 md:justify-end text-6xl pt-5 rounded-full items-center">
+          <div class="flex justify-between md:gap-10 md:justify-end text-6xl pt-5 items-center">
             <button
               onClick={async () =>
                 await props.postRating({

@@ -5,6 +5,12 @@ export default function About() {
         <h1 class="text-6xl uppercase my-16">About Page</h1>
       </div>
       <div class="prose">
+        <h3>What</h3>
+        <p>
+          See a random 1 star Google Maps review. Does it bore you? Hit 😴. Does
+          it bring you joy? Hit 😆. Repeat.
+        </p>
+        <h3>Why</h3>
         <p>
           Trying new things can be scary. It doesn't always go as planned.
           Sometimes, it goes hilariously wrong.

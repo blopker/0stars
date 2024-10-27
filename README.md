@@ -44,7 +44,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![0stars][product-screenshot]
+<div align="center">
+<img width="500" src="public/img/0stars-screen.webp">
+</div>
 
 I've been traveling a lot recently. As such, I've been a Google Maps power user, reading reviews like my life depends on it. Sometimes it does.
 

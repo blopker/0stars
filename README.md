@@ -50,7 +50,7 @@
 
 I've been traveling a lot recently. As such, I've been a Google Maps power user, reading reviews like my life depends on it. Sometimes it does.
 
-All this time with Maps has given me an appreciation for the 1-star reviews people leave. Some of them have brought be considerable joy, not because I enjoy other people's misery (maybe I do?), but because of the perspective it invariably brings me. My bad day doesn't seem so bad when I have access to others' struggles.
+All this time with Maps has given me an appreciation for the 1-star reviews people leave. Some of them have brought me considerable joy, not because I enjoy other people's misery (maybe I do?), but because of the perspective it invariably brings me. My bad day doesn't seem so bad when I have access to others' struggles.
 
 This project is all about bringing that joy to you.
 
